@@ -20,11 +20,7 @@ This version keeps all Python code in **one file: `main.py`**. This makes the pr
 ## Files
 
 - `main.py` - complete Python program
-- `data/student_data.json` - saved student data
 - `statement.md` - problem statement and project scope
-- `docs/diagrams.md` - project design diagrams
-- `docs/sample_terminal_output.txt` - example output
-- `requirements.txt` - Python requirements
 - `Smart_Study_Planner_Project_Report.pdf` - project report
 
 ## How to run
@@ -56,9 +52,6 @@ No external package is required to run the main program.
 - input validation
 
 ## Testing
-
 The main program can be tested by running it and trying different inputs, including invalid numbers. The important calculations are kept as simple functions inside `main.py`, so they can also be checked manually.
 
-## Note
 
-The original VITyarthi guidelines ask coding projects to contain 5-10 meaningful modules/classes/files. This version intentionally uses one Python file because the student wants a simpler single-file submission. If the faculty strictly enforces that requirement, the multi-file version should be submitted instead.
